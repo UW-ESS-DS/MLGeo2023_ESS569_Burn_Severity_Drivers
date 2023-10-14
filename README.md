@@ -8,8 +8,13 @@ Last update 10/14/2023
 * to showcase skills learned in [MLGeo-2023](https://github.com/UW-ESS-DS/MLGeo-2023)
 
 ### Cloning
-
-### Licence 
+```
+PS C:\Users\astri> cd "G:\My Drive\MASTER\Classes\ESS_569_ML\GitHub_repositories"
+PS G:\My Drive\MASTER\Classes\ESS_569_ML\GitHub_repositories> git clone https://github.com/UW-ESS-DS/MLGeo2023_ESS569_AstridSanna.git
+```
+### Why I chose the MIT Licence 
+The MIT License is a clear and accommodating open-source license, permitting free use, alteration, and sharing of software, and it 
+requires giving credit to the original creator; this has led to its broad acceptance and has removed obstacles for its adoption.
 
 ## Favorite Earth Science topics
 * Forest and fire ecology
