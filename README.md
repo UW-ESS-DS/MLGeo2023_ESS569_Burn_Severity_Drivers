@@ -2,14 +2,14 @@ Last update 10/14/2023
 # Welcome to Astrid's Repository 
 
 ## About this repository
-# Purpose 
+### Purpose 
 * to have an online, collaborative space to work on my/our ESS 569 project
 * to document and encourage reproducible science
 * to showcase skills learned in [MLGeo-2023](https://github.com/UW-ESS-DS/MLGeo-2023)
 
-# Cloning
+### Cloning
 
-# Licence 
+### Licence 
 
 ## Favorite Earth Science topics
 * Forest and fire ecology
@@ -41,8 +41,7 @@ single .csv file.
 ### Methods 
 TBD. Techiques could include random forests, Shapley Additive Explanations, geospatial analysis, and more.  
 
-
-
+## Miscellaneous 
 **This README file is in progress and will undergo many edits. 
 The components listed below will be integrated in the future:**
 * Installation/Deployment
@@ -50,3 +49,5 @@ The components listed below will be integrated in the future:**
 * Contributing: detail the type of contributions welcome
 * Contact information / getting help: guidelines on how to get in touch
 * Credits/Acknowledgement: Specific the academic publication to cite 
+
+
