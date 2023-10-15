@@ -47,6 +47,8 @@ single .csv file.
 TBD. Techiques could include random forests, Shapley Additive Explanations, geospatial analysis, and more.  
 
 ## Miscellaneous 
+To write this README.md I used tips found in [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
 **This README file is in progress and will undergo many edits. 
 The components listed below will be integrated in the future:**
 * Installation/Deployment
