@@ -57,4 +57,3 @@ The components listed below will be integrated in the future:**
 * Contact information / getting help: guidelines on how to get in touch
 * Credits/Acknowledgement: Specific the academic publication to cite 
 
-Test Push Capabilities
