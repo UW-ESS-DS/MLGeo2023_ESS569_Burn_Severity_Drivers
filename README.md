@@ -2,6 +2,12 @@ Last update 11/30/2023
 # Welcome!
 
 ## About this repository
+
+### Material included 
+* A report in the form of a notebook where our project is fully described. The entire code is also available here.
+* All figures produced by running the code in the notebook.
+* Presentation slides that briefly describe our project.
+
 ### Purpose 
 * to have an online, collaborative space to work on our ML project
 * to document and encourage reproducible science
