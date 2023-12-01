@@ -30,31 +30,29 @@ to explore the role of fuel treatments in mitigating fire severity and evaluate 
 environmental variables as drivers of burn severity. The major categories of variables that will be 
 explored include: climate, fire weather, topography, fuel treatments, and forest structure. 
 While all categories have some importance in explaining burn-severity variability, only fuel treatments 
-and forest structure are under our control, to some extent. Thus, understanding which variables within these two categories 
-are the most important will serve as a valuable resource for land managers seeking to establish fire 
-regimes that promote forest resilience through strategic fuel load reduction.
+and forest structure are under our control, to some extent. Despite the extensive literature documenting 
+the mitigating effects of fuel treatments on burn severity, the complex and dynamic nature of wildfires 
+presents significant interpretive challenges. Identifying site-specific, key drivers of burn severity and 
+the role of fuel treatments in mitigating burn severity are crucial tasks. Such insights guide the strategic 
+allocation of limited management resources and lay the groundwork for future research. 
 
 ### Research question
-What are the primary factors influencing fire severity, and to what extent can forest structure and fuel 
-treatment variables account for the variation in fire severity? 
-How do these factors operate at both a global and local scale?
+Which environmental variables drove burn severity and what was the role of fuel treatments in mitigating burn severity?
+#### Objective: 
+Quantifying the global and local importance of burn severity drivers.
 
 ### Datasets 
-Fuel-treatments, environmental variables, satellite-derived burn severity indices, LiDAR forest metrics. 
-The original data format was eaither raster or shapefile. All varibales were extracted and compiled in a 
-single .csv file. 
+Fuel-treatments, environmental variables, satellite-derived burn severity index (relativized burn ratio - RBR), LiDAR forest metrics. 
+The original data format was eaither raster or shapefile. All varibales were transformed into rasters and values were extracted and compiled in a 
+single .csv file. A metadata document is included in this repository and will help the reader to understand each variable used in this anlysis. 
+The metadata document also includes maps of the study area. **The data used for this project cannot be openly distributed at this time** since 
+Astrid’s manuscript has not been published yet. The data can be accessed *exclusively* for the purpose of this assignment 
+by Jimmy Flowler, Marine Denolle, and Akshay Mehra. However, the notebook, metadata, and figures are publicly published on this GitHub repository 
+and can be downloaded by anyone. 
 
 ### Methods 
-TBD. Techiques could include random forests, Shapley Additive Explanations, geospatial analysis, and more.  
+Check out the Burn_severity_notebook.ipynb! 
 
-## Miscellaneous 
-To write this README.md I used tips found in [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-**This README file is in progress and will undergo many edits. 
-The components listed below will be integrated in the future:**
-* Installation/Deployment
-* Basic Usage: step-by-step instructions to use the software
-* Contributing: detail the type of contributions welcome
-* Contact information / getting help: guidelines on how to get in touch
-* Credits/Acknowledgement: Specific the academic publication to cite 
+* Contact information / getting help: astrid87@uw.edu
+* Credits/Acknowledgement: This projecct was done in collaboration with Jimmy Fowler.
 
