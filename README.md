@@ -1,4 +1,4 @@
-Last update 11/30/2023
+Last update 12/01/2023
 # Welcome!
 
 ## About this repository
@@ -54,8 +54,8 @@ The original data format was eaither raster or shapefile. All varibales were tra
 single .csv file. A metadata document is included in this repository and will help the reader to understand each variable used in this anlysis. 
 The metadata document also includes maps of the study area. **The data used for this project cannot be openly distributed at this time** since 
 Astrid’s manuscript has not been published yet. The data can be accessed *exclusively* for the purpose of this assignment 
-by Jimmy Flowler, Marine Denolle, and Akshay Mehra. However, the notebook, metadata, and figures are publicly published on this GitHub repository 
-and can be downloaded by anyone. 
+by Jimmy Flowler, Marine Denolle, and Akshay Mehra. However, the report notebook, metadata, presentation slides, and figures are publicly 
+published on this GitHub repository and can be downloaded by anyone. 
 
 ### Methods 
 Check out the Burn_severity_notebook.ipynb! 
