@@ -71,6 +71,4 @@ Check out the Burn_severity_notebook.ipynb!
 ### Contact information / getting help: 
 astrid87@uw.edu
 
-### Credits/Acknowledgement: 
-This projecct was done in collaboration with Jimmy Fowler.
 
