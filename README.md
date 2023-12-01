@@ -53,6 +53,9 @@ and can be downloaded by anyone.
 ### Methods 
 Check out the Burn_severity_notebook.ipynb! 
 
-* Contact information / getting help: astrid87@uw.edu
-* Credits/Acknowledgement: This projecct was done in collaboration with Jimmy Fowler.
+### Contact information / getting help: 
+astrid87@uw.edu
+
+### Credits/Acknowledgement: 
+This projecct was done in collaboration with Jimmy Fowler.
 
