@@ -7,6 +7,7 @@ Last update 11/30/2023
 * A report in the form of a notebook where our project is fully described. The entire code is also available here.
 * All figures produced by running the code in the notebook.
 * Presentation slides that briefly describe our project.
+* Metadata document describing all the variables used in this analysis, and including maps of the study area. 
 
 ### Purpose 
 * to have an online, collaborative space to work on our ML project
