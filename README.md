@@ -1,18 +1,19 @@
-Last update 10/14/2023
-# Welcome to Astrid's Repository 
+Last update 11/30/2023
+# Welcome!
 
 ## About this repository
 ### Purpose 
-* to have an online, collaborative space to work on my/our ESS 569 project
+* to have an online, collaborative space to work on our ML project
 * to document and encourage reproducible science
 * to showcase skills learned in [MLGeo-2023](https://github.com/UW-ESS-DS/MLGeo-2023)
 
 ### Cloning
+Cloning a repository is easy! See example below to clone this one. 
 ```
 PS C:\Users\astri> cd "G:\My Drive\MASTER\Classes\ESS_569_ML\GitHub_repositories"
 PS G:\My Drive\MASTER\Classes\ESS_569_ML\GitHub_repositories> git clone https://github.com/UW-ESS-DS/MLGeo2023_ESS569_AstridSanna.git
 ```
-### Why I chose the MIT Licence 
+### Why we chose the MIT Licence 
 The MIT License is a clear and accommodating open-source license, permitting free use, alteration, and sharing of software, and it 
 requires giving credit to the original creator; this has led to its broad acceptance and has removed obstacles for its adoption.
 
@@ -21,15 +22,15 @@ requires giving credit to the original creator; this has led to its broad accept
 * Climate change
 * Conservation and Biodiversity
  
-## My Project 
+## Our Project 
 ### Background 
 Forest fires are a growing concern, with their frequency and severity increasing in recent decades. 
-The Bootleg fire in Oregon, which burned over 400,000 acres of forestland, provides an opportunity 
+The Bootleg Fire in Oregon, which burned over 400,000 acres of forestland in 2021, provides an opportunity 
 to explore the role of fuel treatments in mitigating fire severity and evaluate the importance of 
 environmental variables as drivers of burn severity. The major categories of variables that will be 
-explored include: bioclimate, climate, fire weather, topography, forest management, and forest structure. 
-While all categories have some importance in explaining burn-severity variability, only forest management 
-and forest structure are under our control. Thus, understanding which variables within these two categories 
+explored include: climate, fire weather, topography, fuel treatments, and forest structure. 
+While all categories have some importance in explaining burn-severity variability, only fuel treatments 
+and forest structure are under our control, to some extent. Thus, understanding which variables within these two categories 
 are the most important will serve as a valuable resource for land managers seeking to establish fire 
 regimes that promote forest resilience through strategic fuel load reduction.
 
