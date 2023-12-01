@@ -3,6 +3,10 @@ Last update 12/01/2023
 
 ## About this repository
 
+### Branches
+There are 3 branches: main, Astrid, and Jimmy. Most of the work was done on Astrid and Jimmy branches. 
+The main branch includes the final, polished work. This README file describes what you will find in the main branch. 
+
 ### Material included 
 * A report in the form of a notebook where our project is fully described. The entire code is also available here.
 * All figures produced by running the code in the notebook.
