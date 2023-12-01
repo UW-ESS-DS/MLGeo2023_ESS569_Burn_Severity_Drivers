@@ -3,6 +3,10 @@ Last update 12/01/2023
 
 ## About this repository
 
+### Authors
+* Astrid Sanna, astrid87@uw.edu.
+* Jimmy Fowler, jfowler0@uw.edu.
+
 ### Branches
 There are 3 branches: main, Astrid, and Jimmy. Most of the work was done on Astrid and Jimmy branches. 
 The main branch includes the final, polished work. This README file describes what you will find in the main branch. 
