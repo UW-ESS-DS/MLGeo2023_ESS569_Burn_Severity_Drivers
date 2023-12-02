@@ -3,6 +3,10 @@ Last update 12/01/2023
 
 ## About this repository
 
+### Authors
+* Astrid Sanna (leader), astrid87@uw.edu.
+* Jimmy Fowler (assistant), jfowler0@uw.edu.
+
 ### Branches
 There are 3 branches: main, Astrid, and Jimmy. Most of the work was done on Astrid and Jimmy branches. 
 The main branch includes the final, polished work. This README file describes what you will find in the main branch. 
@@ -67,6 +71,4 @@ Check out the Burn_severity_notebook.ipynb!
 ### Contact information / getting help: 
 astrid87@uw.edu
 
-### Credits/Acknowledgement: 
-This projecct was done in collaboration with Jimmy Fowler.
 
