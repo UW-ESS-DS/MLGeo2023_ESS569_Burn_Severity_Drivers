@@ -1,4 +1,4 @@
-Last update 12/01/2023
+Last update 12/02/2023
 # Welcome!
 
 ## About this repository
@@ -38,6 +38,9 @@ requires giving credit to the original creator; this has led to its broad accept
 * Conservation and Biodiversity
  
 ## Our Project 
+
+**All data considered for building the data frame that was used for this project is stored on [Google Drive](https://drive.google.com/drive/folders/11NSQJsinT8awAIQW_oEajdHkONbcQsUZ?usp=sharing) with limited access. CSVs files are available at ESS_569_ML_project/Data/CSVs.**
+
 ### Background 
 Forest fires are a growing concern, with their frequency and severity increasing in recent decades. 
 The Bootleg Fire in Oregon, which burned over 400,000 acres of forestland in 2021, provides an opportunity 
@@ -66,7 +69,7 @@ by Jimmy Flowler, Marine Denolle, and Akshay Mehra. However, the report notebook
 published on this GitHub repository and can be downloaded by anyone. 
 
 ### Methods 
-Check out the Burn_severity_notebook.ipynb! 
+Check out our Burn_severity_notebook.ipynb! 
 
 ### Contact information / getting help: 
 astrid87@uw.edu
